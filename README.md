@@ -5,6 +5,45 @@ Independent researcher and systems architect. Built in India, for the world.
 My work asks one question at every layer of a medical system: can this result
 be trusted, and does the system know when it can't?
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### About
+
+#### One research programme, built one validated step at a time
+
+I'm Koushik Das, an independent researcher. Across the work presented here, I serve as the architect and algorithm designer: I define what each system should do, how it should behave when the evidence is limited, and how its performance should be evaluated. Implementation is carried out by my team together with AI coding agents, working from these designs, and every change is reviewed and tested before release.
+
+Although my projects may appear separate, each is a component of a larger, long-term research programme. Each one examines a single idea carefully before it becomes part of that wider effort: whether a system can decline to answer rather than guess, whether evidence can remain traceable from its source to the final decision, and whether a benchmark can be fixed in advance and still be met. Testing these ideas early, openly and on a small scale gives the larger programme a stronger foundation.
+
+Further work in my archive will be shared over time, including research on protein mutation, biological computation, and a haematology report analysis system for clinical decision support, which is currently in its clinical validation and refinement phase.
+
+The next stage of this work will benefit greatly from a wider team. Two colleagues currently contribute to testing and architecture review, and I would warmly welcome more: researchers from universities and medical colleges, clinicians, reviewers and constructive critics. The collective's charter describes how we work together, how ownership and intellectual property are protected, and how every contribution is publicly recognised.
+
+If you lead a startup or research group and feel I could contribute, I would be glad to hear from you by email. I work best with clear goals and the autonomy to pursue them, and I am always happy to discuss my work through the projects and evidence presented here.
+
+</td>
+<td width="38%" valign="top">
+
+<img src="assets/motto.svg" alt="Research first. Evidence always. Build together." width="100%">
+
+**[Whitepaper](https://nabvian.github.io/whitepaper/)**<br>
+The Evidence-First Research Collective: a charter for shared work, clear ownership and public recognition
+
+**[Preprint](https://doi.org/10.5281/zenodo.23097652)**<br>
+Adding Capabilities Without Silent Regression: A Frozen Core, Capability Routing, and Conservative Promotion (Zenodo, 2026)
+
+**[Live projects](https://nabvian.github.io/)**<br>
+nabvian.github.io: live demos and research showcases
+
+**[Email](mailto:engikd1993@gmail.com)**<br>
+engikd1993@gmail.com
+
+</td>
+</tr>
+</table>
+
 ## The layers
 
 **Knowledge.** Domain-blind reasoning engines for pathology, radiology,
@@ -57,8 +96,9 @@ Public: [qbenchmed](https://github.com/nabvian/qbenchmed)
 
 ## How we work
 
-I design the architecture and lead the research. My team writes and tests the
-code, so the person who designs a system is never the only one certifying it.
+I design the architecture and lead the research. My team, together with my AI
+coding agents, writes and tests the code, so the person who designs a system is
+never the only one certifying it.
 
 Results are published as they come out, including the negative ones and my own
 mistakes. Each project states its stage plainly: specification, prototype, or
@@ -76,4 +116,5 @@ I'm looking to work with:
 - researchers with access to quantum hardware;
 - funders who back open, independently checkable work.
 
-Email: engikd1993@gmail.com
+How contributors work together, own their work and are credited is set out in
+the [collective's charter](https://nabvian.github.io/whitepaper/).
